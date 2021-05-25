@@ -26,3 +26,6 @@ Explore the innovative, dedicated and professional world of Hyrien and experienc
 
 #### ATOMICNETWORKS (Currently developer here)
 We ❤️ to create unique and cool projects for you and work on improving them every day through your feedback and suggestions for improvement.
+
+#### GermanyCovid (Currently developer here)
+Your reliable data about the COVID pandemic in Germany. The most up-to-date data daily at the same time and place.
