@@ -24,7 +24,7 @@ You've always wanted your own music bot, on which you can play your favorite sta
 #### Hyrien (Quit team)
 Explore the innovative, dedicated and professional world of Hyrien and experience services in a whole new style.
 
-#### ATOMICNETWORKS (Currently developer here)
+#### ATOMICNETWORKS (Closed)
 We ❤️ to create unique and cool projects for you and work on improving them every day through your feedback and suggestions for improvement.
 
 #### GermanyCovid (Currently developer here)
