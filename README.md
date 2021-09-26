@@ -2,7 +2,7 @@
   <img alt="vocalzero" src="https://i.imgur.com/UHM8ieu.png" width="250" />
 </p>
 <h1 align="center">
-  Hi there 👋
+  Hey there 👋
 </h1>
 <p align="center">
   Hello my friend. Glad you found my profile.<br>I dont know what you are looking for but I hope you will find something suitable. 🙌
