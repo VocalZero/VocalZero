@@ -5,7 +5,7 @@
   Hey there 👋
 </h1>
 <p align="center">
-  Hello my friend. Glad you found my profile.<br>I dont know what you are looking for but I hope you will find something suitable.
+  Hello. Glad you found my profile.<br>I dont know what you are looking for but I hope you will find something suitable.
 </p>
 
 ## About me 🔥
@@ -27,7 +27,7 @@ Explore the innovative, dedicated and professional world of Hyrien and experienc
 #### ATOMICNETWORKS (Closed)
 We ❤️ to create unique and cool projects for you and work on improving them every day through your feedback and suggestions for improvement.
 
-#### GermanyCovid (Currently developer here)
+#### GermanyCovid (Closed)
 Your reliable data about the COVID pandemic in Germany. The most up-to-date data daily at the same time and place.
 
 #### ATOMIC.RADIO (Currently developer here)
