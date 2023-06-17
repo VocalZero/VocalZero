@@ -30,6 +30,7 @@ jobs:
           base: activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Berlin
+          config_display: large
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
