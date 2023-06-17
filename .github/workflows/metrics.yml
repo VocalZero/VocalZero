@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -30,12 +30,6 @@ jobs:
           base: activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Berlin
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -66,13 +60,11 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_self: yes
           plugin_notable_types: commit
-          plugin_stars: yes
-          plugin_stars_limit: 4
           plugin_steam: yes
           plugin_steam_achievements_limit: 0
           plugin_steam_games_limit: 2
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 2
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198191113906
+          plugin_steam_user: VocalZero
           repositories_forks: yes
