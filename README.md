@@ -20,3 +20,6 @@ Your reliable data about the COVID pandemic in Germany. The most up-to-date data
 
 #### ATOMIC.RADIO
 Enjoy the best possible sound quality, vote for tracks, skip them. But why go on about what makes us special? Just switch to your space and see yourself!
+
+## Stats
+<img alt="metrics" src="https://github.com/VocalZero/VocalZero/blob/master/github-metrics.svg" />
