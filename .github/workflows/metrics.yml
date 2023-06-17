@@ -60,11 +60,4 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_self: yes
           plugin_notable_types: commit
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 0
-          plugin_steam_games_limit: 2
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 2
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: VocalZero
           repositories_forks: yes
