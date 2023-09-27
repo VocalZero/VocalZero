@@ -5,7 +5,7 @@
   Hey there 👋
 </h1>
 <p align="center">
-  Hello. Glad you found my profile.<br>I dont know what you are looking for but I hope you will find something suitable.
+  Hello. Glad you found my profile.
 </p>
 
 ## About me 🔥
