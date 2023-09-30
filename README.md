@@ -19,7 +19,4 @@ Just a code obsessed person who works on everything possible and likes to try ne
 Your reliable data about the COVID pandemic in Germany. The most up-to-date data daily at the same time and place.
 
 #### ATOMIC.RADIO
-Enjoy the best possible sound quality, vote for tracks, skip them. But why go on about what makes us special? Just switch to your space and see yourself!
-
-## Stats
-<img alt="metrics" src="https://github.com/VocalZero/VocalZero/blob/master/github-metrics.svg" />
+The future of radio is here. https://atomic.radio/
