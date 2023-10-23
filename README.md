@@ -19,4 +19,4 @@ Just a code obsessed person who works on everything possible and likes to try ne
 Your reliable data about the COVID pandemic in Germany. The most up-to-date data daily at the same time and place.
 
 #### ATOMIC.RADIO
-The future of radio is here. https://atomic.radio/
+The future of radio is here. Experience 12 Spaces with non-stop music you'll love. https://atomic.radio/
